@@ -1,0 +1,21 @@
+{
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":"spacy_pretrained_vectors"
+  },
+  "name":"model",
+  "description":"",
+  "spacy_version":">=2.0.16",
+  "version":"0.0.0",
+  "author":"",
+  "lang":"en",
+  "email":"",
+  "pipeline":[
+    "ner",
+    "sbd"
+  ],
+  "url":"",
+  "license":""
+}

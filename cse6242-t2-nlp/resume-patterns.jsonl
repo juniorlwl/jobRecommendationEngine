@@ -1,0 +1,12 @@
+{"label": "DEGREE", "pattern": [{"lower": "master"}]}
+{"label": "DEGREE", "pattern": [{"lower": "msc"}]}
+{"label": "DEGREE", "pattern": [{"lower": "ms"}]}
+{"label": "DEGREE", "pattern": [{"lower": "m.s."}]}
+{"label": "DEGREE", "pattern": [{"lower": "M.Sc."}]}
+{"label": "DEGREE", "pattern": [{"lower": "bachelor"}]}
+{"label": "DEGREE", "pattern": [{"lower": "B.S."}]}
+{"label": "DEGREE", "pattern": [{"lower": "BS"}]}
+{"label": "DEGREE", "pattern": [{"lower": "B.Sc."}]}
+{"label": "DEGREE", "pattern": [{"lower": "BSc"}]}
+{"label": "DEGREE", "pattern": [{"lower": "B.Sc"}]}
+{"label": "DEGREE", "pattern": [{"lower": "PhD"}]}
